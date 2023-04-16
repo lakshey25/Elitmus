@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=swap');
+h1{
+  font-family: 'Rubik Pixels', cursive;
+    font-size:40pt;
+    color:white;
+    
+  }
+  
+  body{
+    background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
+    text-align: center;
+    margin: 10rem;
+  }
+  
+  h2{
+    color:white;
+    
+  }
+  h3{
+    color:white
+  }
+  h4{
+    color:white
+  }
